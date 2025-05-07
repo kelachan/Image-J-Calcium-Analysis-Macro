@@ -6,11 +6,7 @@ Before running the macro, ensure the following plugins are installed and up to d
 1. Trainable Weka Segmentation - Pre-installed in Fiji
 2. Noise2Void (N2V) - Optional preprocessing step, denoising using deep learning
 3. Template Matching - Optional preprocessing step, slice alignment
-
-Go to Help → Update...
-Click Manage Update Sites
-Enable CSBDeep and Template_Matching
-Click Apply Changes, then restart Fiji
+    Go to Help → Update... Click Manage Update Sites, and enable CSBDeep and Template_Matching. Then,  Apply Changes, and restart Fiji.
 
 Use of Macro:
 1. Download the macro file
