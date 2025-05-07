@@ -16,11 +16,10 @@ Go to Help → Update... Click Manage Update Sites, and enable CSBDeep and Templ
 
 **Use of Macro**
 
-1. Download the macro file
-2. Save F_Fo_macro_combined.ijm from this repository.
-3. Open Fiji, then go to: Plugins → Macros → Run… and select the macro file.
-4. Select the image to run the analysis on. 
-6. Follow the on-screen dialogs.
+1. Download the macro file, F_Fo_macro_combined.ijm from this repository.
+2. Open Fiji, then go to: Plugins → Macros → Run… and select the macro file.
+3. Select the image to run the analysis on. 
+4. Follow the on-screen dialogs.
 
 You can try the macro using the sample time-lapse image provided here: https://drive.google.com/drive/u/2/folders/12Kj8ol_rpForezNu8eSBeFmZKQFcjKAJ
 
