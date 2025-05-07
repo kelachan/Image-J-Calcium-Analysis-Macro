@@ -16,5 +16,6 @@ Use of Macro:
 4. Select the image to run the analysis on. 
 
 You can try the macro using the sample time-lapse image provided here: https://drive.google.com/drive/u/2/folders/12Kj8ol_rpForezNu8eSBeFmZKQFcjKAJ
+
 6. Follow the on-screen dialogs.
 
