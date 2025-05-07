@@ -12,7 +12,7 @@ Before running the macro, ensure the following plugins are installed and up to d
 Go to Help → Update... Click Manage Update Sites, and enable CSBDeep and Template_Matching. Then,  Apply Changes, and restart Fiji.
 
 
-Use of Macro:
+Use of Macro
 
 1. Download the macro file
 2. Save F_Fo_macro_combined.ijm from this repository.
