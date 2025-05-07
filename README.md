@@ -2,7 +2,7 @@
 Perform Calcium Analysis of individual cells within ImageJ - preprocess your image, apply different intensity thresholds, and save your analysis in an intuitive format.
 
 
-Required Fiji Plugins
+**Required Fiji Plugins**
 
 Before running the macro, ensure the following plugins are installed and up to date:
 1. Trainable Weka Segmentation - Pre-installed in Fiji
@@ -12,7 +12,7 @@ Before running the macro, ensure the following plugins are installed and up to d
 Go to Help → Update... Click Manage Update Sites, and enable CSBDeep and Template_Matching. Then,  Apply Changes, and restart Fiji.
 
 
-Use of Macro
+**Use of Macro**
 
 1. Download the macro file
 2. Save F_Fo_macro_combined.ijm from this repository.
