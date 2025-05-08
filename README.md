@@ -24,3 +24,6 @@ Go to Help → Update... Click Manage Update Sites, and enable CSBDeep and Templ
 You can try the macro using the sample time-lapse .czi image provided here: https://drive.google.com/drive/u/2/folders/12Kj8ol_rpForezNu8eSBeFmZKQFcjKAJ
 
 
+When working in Windows, users should avoid using system-protected directories such as C:\Users, C:\Program Files, or the Fiji installation directory for storing input or output data. It is recommended to use an external folder to avoid write permission errors. All analysis outputs - ROI ZIP files for reference, a ΔF/F₀ CSV table, and graph images - are saved automatically to the same directory as the input image file.
+
+
